@@ -1,0 +1,17 @@
+{
+  "name": "ProjectStatus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jspeed": "^1.0.5",
+    "node-fetch": "^3.2.6"
+  }
+}
