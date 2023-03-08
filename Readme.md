@@ -25,5 +25,3 @@ To run ProjectStatus you can do it in two ways:
 - [Portfolio](https://elmarcz.github.io/portfolio/)
 - [Twitter](https://twitter.com/MarcMedrano15)
 - [Discord](https://discord.com/invite/zPSYDGVXxx)
-
-### Made with ❤ by Marc Medrano
